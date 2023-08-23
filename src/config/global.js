@@ -138,58 +138,57 @@ export default {
   },
   complementario: [
     {
-      tema: 'Estudio y métodos de trabajo en la industria de la confección',
+      tema: '1. Estudio y métodos de trabajo en la industria de la confección',
       referencia:
-        'SENA. (2020). <em>Confección camiseta tipo polo Paso 4 Unir por hombros</em> (Video). YouTube. ',
+        'SENA. (2020). <em>Confección camiseta tipo polo Paso 4 Unir por hombros</em>  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=rBrE6bikCRw',
     },
     {
-      tema: 'Técnicas y diagramas de estudio de métodos',
+      tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Aguilar, L. (2019). <em>Métodos de trabajo – Confección</em> (Video). YouTube. ',
+        'Aguilar, L. (2019). <em>Métodos de trabajo – Confección</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/jqca9UwfFSo',
     },
     {
-      tema: 'Técnicas y diagramas de estudio de métodos',
+      tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Aguilar, L. (2019). <em>Métodos de trabajo - pegar mangas en un buso T-shirt</em> (Video). YouTube. ',
+        'Aguilar, L. (2019). <em>Métodos de trabajo - pegar mangas en un buso T-shirt</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/jqca9UwfFSo',
     },
     {
-      tema: 'Técnicas y diagramas de estudio de métodos',
+      tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Ingeniería Confección. (2008). <em>Confección en menos tiempo Dobladillar bota jean</em> (Video). YouTube. ',
+        'Ingeniería Confección. (2008). <em>Confección en menos tiempo Dobladillar bota jean</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/L76fT5Q1rqQ',
     },
     {
-      tema: 'Técnicas y diagramas de estudio de métodos',
+      tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Ingeniería Confección. (2016). <em>Ejemplo de confección en menos tiempo Dobladillar bota jean</em> (Video). YouTube. ',
+        'Ingeniería Confección. (2016). <em>Ejemplo de confección en menos tiempo Dobladillar bota jean</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/L76fT5Q1rqQ',
     },
     {
-      tema: 'Técnicas y diagramas de estudio de métodos',
+      tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Ingeniería Confección. (2010). <em>Ejemplos de cómo coser en menos tiempo</em> (Video). YouTube. ',
+        'Ingeniería Confección. (2010). <em>Ejemplos de cómo coser en menos tiempo</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/1de6XsWMpHk',
     },
     {
-      tema: 'Técnicas de estudio de tiempos',
-      referencia:
-        'Corona, L. (2013). <em>#Cronómetro mecánico MEYLAN</em> (Video). YouTube. ',
+      tema: '5. Técnicas de estudio de tiempos',
+      referencia: 'Corona, L. (2013). <em>#Cronómetro mecánico MEYLAN</em>  ',
       tipo: 'Video',
       link: 'https://youtu.be/fMsUtRLUf3Y',
     },
     {
-      tema: 'Técnicas de estudio de tiempos',
+      tema: '5. Técnicas de estudio de tiempos',
       referencia:
-        'Corona, L. (2017). <em>#Cronómetro Profesional, Extech 365535</em> (Video). YouTube. ',
+        'Corona, L. (2017). <em>#Cronómetro Profesional, Extech 365535</em>  ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=hJUmtxN6Fvo',
     },
@@ -274,35 +273,35 @@ export default {
   referencias: [
     {
       referencia:
-        'Freivalds, A., & Niebel, B. W. (2014). <em>Ingeniería Industrial De Niebel: Métodos, Estándares Y Diseño Del Trabajo</em> (13a. Ed.). México D. F.: Mcgraw-Hill.',
+        'Freivalds, A., & Niebel, B. W. (2014). Ingeniería Industrial De Niebel: Métodos, Estándares Y Diseño Del Trabajo (13a. Ed.). México D. F.: Mcgraw-Hill.',
     },
     {
       referencia:
-        'García Criollo, R. (2005). <em>Estudio Del Trabajo; Ingeniería de Métodos</em> (2a. Ed.). México: Mcgraw-Hill Interamericana',
+        'García Criollo, R. (2005). Estudio Del Trabajo; Ingeniería de Métodos (2a. Ed.). México: Mcgraw-Hill Interamericana',
     },
     {
       referencia:
-        'Kanawaty, G. (2014). <em>Introducción al estudio del trabajo</em>. Limusa.',
+        'Kanawaty, G. (2014). Introducción al estudio del trabajo. Limusa.',
     },
     {
       referencia:
-        'Meyers, F. (2000). <em>Estudios de tiempos y movimientos para la manufactura ágil</em>. Pearson Educación. mtmingenieros (2022). Tablas MTM.',
+        'Meyers, F. (2000). Estudios de tiempos y movimientos para la manufactura ágil. Pearson Educación. mtmingenieros (2022). Tablas MTM.',
       link: 'http://mtmingenieros.com/recursos-mtm/descarga-de-recursos/',
     },
     {
       referencia:
-        'Ospina, M. (2020). <em>El espacio del puesto de trabajo como factor principal en la industria de la confección</em>. Universidad Católica de Pereira. ',
+        'Ospina, M. (2020). El espacio del puesto de trabajo como factor principal en la industria de la confección. Universidad Católica de Pereira. ',
       link: 'https://repositorio.ucp.edu.co/handle/10785/7108',
     },
     {
       referencia:
-        'Palacios, L. (2016). <em>Ingeniería de métodos: movimientos y tiempos</em>. Ecoe Ediciones. ',
+        'Palacios, L. (2016). Ingeniería de métodos: movimientos y tiempos. Ecoe Ediciones. ',
       link:
         'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/114350?page=308',
     },
     {
       referencia:
-        'Salazar, B. (2019). <em>Micromovimientos | Ingeniería Industrial Online</em>. Ingeniería Industrial Online. ',
+        'Salazar, B. (2019). Micromovimientos | Ingeniería Industrial Online. Ingeniería Industrial Online. ',
       link:
         'https://www.ingenieriaindustrialonline.com/ingenieria-de-metodos/micromovimientos/',
     },
@@ -384,14 +383,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Yerson Fabian Zarate Saavedra',
-          cargo: 'Diseñador web',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Andrea Paola Botello De la Rosa',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Animador y Productor Multimedia',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -402,8 +395,20 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Carmen Alicia Martínez Torres',
-          cargo: 'Animador y Producción audiovisual',
+          nombre: 'Camilo Andrés Bolaño Rey',
+          cargo: 'Locución',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Yerson Fabian Zarate Saavedra',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Andrea Paola Botello De la Rosa',
+          cargo: 'Desarrollador Fullstack',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
@@ -419,20 +424,20 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Zuleidy María Ruiz Torres',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
-          nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validación y vinculación en plataforma LMS',
-          centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
-        },
-        {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Validación de contenidos accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Zuleidy María Ruíz Torres',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Luis Gabriel Urueta Álvarez',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },

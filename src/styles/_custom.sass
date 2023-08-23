@@ -114,7 +114,7 @@
 .fondo-tema3
   background: url('../assets/curso/temas/tema3/fondo.png')
   background-position: center bottom
-  background-size: 100% 55%
+  background-size: 100% 75%
   background-repeat: no-repeat
   margin-inline: -3.4rem
   @media screen and (max-width: 992px)
@@ -359,9 +359,11 @@ table.tema-4 th, table.tema-4 td
 .slyder-a__bullets__item 
   background-color: #E7C9B5
 .slyder-a__tipo-b .slyder-a__btn--atrs
-  transform: rotate(180deg)
+  transform: rotate(90deg)
 .slyder-a__tipo-b .slyder-a__btn--sigt
-  transform: rotate(0deg)
+  transform: rotate(-90deg)
+.slyder-a__bullets__item
+  margin: 0 7px
 
 .acordion .acordion__activo
   background-color: #F5E0E4
@@ -449,3 +451,12 @@ table.tema-4 th, table.tema-4 td
     top: 50%
   h4, p
     opacity: 1
+
+.fa-ul
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 7px
+      font-size: 1.4rem

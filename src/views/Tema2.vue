@@ -11,7 +11,7 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
 
-          .col-md-8.mb-4(data-aos="fade-right")
+          .col-lg-8.mb-4(data-aos="fade-right")
             .cajon.color-secundario.h-100.p-4.mb-4
               p.mb-0 Las técnicas para estudiar los métodos de trabajo, de acuerdo con García (2005),  permiten validar la versión actual del cómo realiza el trabajo y también proponer mejoras que conlleven a una reducción de tiempo u optimización de otros recursos. En la comparación entre el estado actual y mejorado se puede ver lo que se eliminó, simplificar o varió, es por esto su importancia. A nivel general en el estudio de métodos se puede usar más de una técnica, sin embargo, las que no pueden faltar son las que se muestran en este contenido, ya que hace que se pueda analizar el proceso desde la visión general hasta el detalle de este.
             p Sumado a esto, la simbología es un elemento clave en la realización de diagramas. Según Salazar (2019), la simbología es el lenguaje gráfico de los diagramas de flujo, es propuesta por diferentes organismos de normalización para que a nivel mundial se pueda interpretar cada uno de los símbolos usados como la ISO (
@@ -19,8 +19,8 @@
               |) Organización Internacional de Normalización, ASME (
               em The American Society of Mechanical Engineers
               |) Sociedad Americana de Ingenieros Mecánicos o ANSI (The American National Standards Institute) Instituto Nacional Americano de Estándares. Generalmente las dimensiones usadas para su representación son proporcionales tanto en largo como en ancho, 1 cm por 1 cm. 
-          .col-md-4.mb-4.ps-md-0(data-aos="fade-left")
-            img(src='@/assets/curso/temas/tema2/img.png' alt='Imagen decorativa')
+          .col-lg-4.col-md-8.col-10.mb-4.ps-md-0(data-aos="fade-left")
+            img(src='@/assets/curso/temas/tema2/img.png' alt='')
 
           p.mb-4(data-aos="fade") La simbología aquí propuesta es rescatada de las normas ASME, en la tabla se describe su símbolo, actividad que indica y su uso en la realización de diagramas para el estudio de métodos. 
 
@@ -73,29 +73,29 @@
     .titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 2.1 Diagrama de operaciones
 
-    .row.mb-3
-      .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
+    .row.justify-content-center.mb-3
+      .col-lg-8.mb-4.mb-md-0(data-aos="fade-right")
         p Según Meyers (2000) 
           b.t-red el diagrama de operaciones es la representación gráfica de la secuencia de actividades de una prenda o producto, en donde se muestran las materias primas que lo conforman, las operaciones que agregan valor en cada material y las operaciones de ensamble. 
           | Es así como se muestra el detalle del paso a paso y se construye de manera limpia el proceso productivo, también en su elaboración se aclaran las dudas generales que se puedan tener en cuanto al orden en que se va ensamblando la prenda ya al unir cada Insumo o material no se deberán cruzar las líneas del diagrama.
         p El diagrama de operaciones tiene un círculo por cada operación requerida para transformar cada materia prima, así como también para ensamblar las partes y para empacar el producto. Están incluidos todos los pasos del proceso productivo que se quiera representar, desde el inicio y hasta el final que se define antes de empezar su realización. El número de materias primas e insumos determina el tamaño y complejidad del diagrama de operaciones.
         .bg-6.mb-4.p-4.p-md-3
           .row 
-            .col-md-2.col-5.mb-4.mb-md-0
-              img.px-md-3(src='@/assets/curso/temas/tema3/alert.svg' alt='AvatarTop')
+            .col-lg-2.col-md-2.col-4.mb-4.mb-md-0
+              img.px-lg-3(src='@/assets/curso/temas/tema3/alert.svg' alt='AvatarTop')
             .col-md-10
               p.mb-0 Es necesario señalar que los diagramas de operaciones son de gran importancia en la estructura inicial del estudio de métodos, pues, permite visualizar el proceso de manera general con los detalles más importantes de la elaboración de la prenda o producto. 
-      .col-md-4.mb-4.mb-md-0(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img2.png' alt='Imagen decorativa')
+      .col-lg-4.col-md-8.col-10.mb-4.mb-md-0(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema2/img2.png' alt='')
 
     p.mb-4(data-aos="fade") Todo diagrama de operaciones debe reconocerse por medio de la información que muestra en el encabezado y se debe colocar la información necesaria para su rápida interpretación, tal como se presenta en la siguiente figura, basada en Meyers (2000).
 
     .row.justify-content-center(data-aos="fade-down")
-      .col-md-10.bg-gray2.px-4.pt-4
+      .col-lg-10.bg-gray2.px-4.pt-4
         .titulo-sexto.color-acento-contenido.mb-0
           p.mb-0 #[b Figura 1.] Esquema general elaboración de Diagrama de operaciones
-        img(src='@/assets/curso/temas/tema2/fig1.svg' alt='Esquema general elaboración de Diagrama de operaciones')
-      .col-md-10.px-0.mb-5
+        img(src='@/assets/curso/temas/tema2/fig1.svg' alt='Esquema en el que se visualizan los componentes y las operaciones que desarrollan y aquellas de ensamble.')
+      .col-lg-10.px-0.mb-5
         .bg-7.p-4
           p.mb-0 En este esquema se muestra una adaptación del esquema general de manufactura a un esquema de confección, en donde se visibiliza los componentes, las operaciones que transforman cada componente y las operaciones de ensamble, también se puede ver de manera gráfica como se muestran las operaciones dependiendo si son de ensamble, preparación o terminados.
 
@@ -109,7 +109,7 @@
           .tarjeta.fondo-slider.p-4.pt-5.mb-5
             SlyderA(tipo="b" data-aos="fade-down")
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 1
@@ -121,82 +121,83 @@
                       li
                         i.fas.fa-circle
                         | Materiales comprados: se refieren a los materiales o insumos que se usan en el proceso productivo y se compran ya hechos, en el caso de los procesos de confección, se refiere generalmente a los insumos, por ejemplo, los herrajes, botones, bolsas, cremalleras, entre otros. 
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img1.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img1.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 2
                     p Determine las operaciones y la secuencia requerida para fabricar cada componente.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img2.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img2.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 3
                     p Determine la secuencia de ensamble, tanto de materiales a transformar como de materiales comprados.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img3.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img3.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 4
                     p Ubique los materiales o componentes a transformar en orden. Se colocarán de derecha a izquierda, en el orden en que se vaya ensamblando al proceso de confección, sobre una línea horizontal, indicando qué materia prima ingresará al proceso. 
                     p Luego, una línea vertical se extiende hacia abajo partiendo desde el lado derecho de la línea horizontal, colocando un círculo para cada operación hasta llegar a la última.            
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img4.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img4.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 5
                     p Coloque el segundo componente al lado del primero, el tercero al lado del segundo y así sucesivamente, hasta que se incluyan todas las materias primas y todas las operaciones.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img5.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img5.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 6
                     p Dibuje una línea horizontal desde la parte inferior de la última operación del segundo componente, hasta la línea vertical del primer componente, uniendo el proceso en operaciones en la línea de ensamble. Y así con cada materia prima trasformada o preparada para el proceso de confección.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img6.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img6.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 7
                     p Introduzca todas las partes a la línea de ensamble y agregue un círculo para cada operación de ensamble.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img7.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img7.svg', alt='')
               .row.justify-content-evenly
-                .col-md-7.mb-4.mb-md-0
+                .col-lg-7.mb-4.mb-md-2.mb-lg-0
                   .tarjeta-numerada.verde.color-primario.bg-green.box-shadow.ps-5.p-4.mb-2
                     .tarjeta-numerada__numero.text-white
                       .h2 8
                     p Indique los números de operación o inspección, nombre de la operación y recurso utilizado.                    
-                .col-md-4
-                  img(src='@/assets/curso/temas/tema2/slide-img8.svg', alt='Imagen decorativa')
+                .col-lg-4.col-md-8.col-10
+                  img(src='@/assets/curso/temas/tema2/slide-img8.svg', alt='')
 
-          .col-md-10
+          .col-lg-10
             h4.t-red(data-aos="fade") Aplicación del diagrama de operaciones
             p(data-aos="fade") Ahora bien, frente a la implementación, esta se hará sobre una prenda básica, en este caso se verá que los componentes son diagramados en su totalidad de acuerdo con el esquema de especificaciones de confección. 
             .tarjeta.bg-color-secundario.p-3(data-aos="fade-down")
               .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.px-md-4
-                  img.px-md-4(src="@/assets/curso/temas/tema1/pdf.svg")
+                .col-3.col-sm-2.col-lg-2.px-lg-4.px-md-3
+                  img.px-lg-4(src="@/assets/curso/temas/tema5/xls.svg")
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Diagrama de operaciones
                       p.mb-0 Se sugiere revisar el archivo para comprender la aplicación directa del diagrama.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Diagrama_de_operaciones.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Diagrama_Operaciones.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
+
 
     Separador
 
@@ -208,8 +209,8 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
     
-          .row.mb-3
-            .col-md-8.mb-4(data-aos="fade-right")
+          .row.justify-content-center.mb-3
+            .col-lg-8.mb-4(data-aos="fade-right")
               p Según García (2005), 
                 b.t-red el diagrama de flujo del proceso o diagrama de procesos muestra todo el manejo, inspección, operaciones, almacenaje y retrasos que ocurren con cada materia prima conforme a como se mueve por la planta. 
                 | Este diagrama se dispone en un formato estándar, sin embargo, un formato correctamente diseñado guiará al supervisor o analista a hacer las preguntas correctas para un análisis completo del proceso, así mismo es importante aclarar que en un mismo proceso la información debe ser coherente y coincidir en las herramientas de recolección de información. 
@@ -217,22 +218,22 @@
                 p.mb-0 Para elaborar el diagrama de flujo de procesos, de acuerdo con García (2005), es necesario tener en cuenta dos formas para su construcción: se puede diagramar el flujo o recorrido de los materiales o el flujo de un operario. Ambas formas son importantes, el de materiales sirve para validar las actividades en general del proceso de producción y el de operario es más útil para validar las operaciones de servicio, como por ejemplo el mantenimiento de una máquina, o despachar un material en el almacén. Para su construcción es necesario ser consecuente con el diagrama de operaciones y mencionar, además de las operaciones, las demás actividades, transportes, demoras, almacenamientos, inspecciones u operaciones combinadas. 
               h4.t-red Aplicación del diagrama de flujo
               p Según Meyers (2000), la implementación realizada se hará sobre una prenda básica. En este caso se verá que los componentes son diagramados en su totalidad de acuerdo al esquema de especificaciones de confección relacionadas. En esta ocasión, se incorporó las demás actividades, en las cuales se deberá enfocar el estudio de métodos con el fin de mitigar aquellas actividades que no agregan valor, por ejemplo, tratar de combinar las actividades de operación e inspección para que las realice una sola persona.          
-            .col-md-4.mb-4(data-aos="fade-left")
-              img(src='@/assets/curso/temas/tema2/img3.png' alt='Imagen decorativa')
+            .col-lg-4.col-md-7.col-9.mb-4(data-aos="fade-left")
+              img(src='@/assets/curso/temas/tema2/img3.png' alt='')
 
           .row.justify-content-center
-            .col-md-10(data-aos="fade-down")
+            .col-lg-10(data-aos="fade-down")
               .tarjeta.bg-color-secundario.p-3
                 .row.justify-content-around.align-items-center
-                  .col-3.col-sm-2.col-lg-2.px-md-4
-                    img.px-md-4(src="@/assets/curso/temas/tema1/pdf.svg")
+                  .col-3.col-sm-2.col-lg-2.px-lg-4.px-md-3
+                    img.px-lg-4(src="@/assets/curso/temas/tema5/xls.svg")
                   .col.ps-md-0
                     .row.justify-content-between.align-items-center
                       .col.mb-3.mb-sm-0
                         h3.mb-1 Diagrama de flujo
                         p.mb-0 Se sugiere revisar el archivo para comprender la aplicación directa del diagrama.
                       .col-sm-auto
-                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Diagrama_de_flujo.pdf')" target="_blank")
+                        a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Diagrama_Flujo.xlsx')" target="_blank")
                           span Descargar
                           i.fas.fa-file-download
 
@@ -247,10 +248,10 @@
       .col-lg-12.col-12.px-lg-5.px-4
         .row.justify-content-center.align-items-center
           
-          .row.mb-3
-            .col-md-4.mb-4(data-aos="fade-right")
-              img(src='@/assets/curso/temas/tema2/img4.png' alt='Imagen decorativa')
-            .col-md-8.mb-4(data-aos="fade-left")
+          .row.justify-content-center.mb-3
+            .col-lg-4.col-md-9.mb-4(data-aos="fade-right")
+              img(src='@/assets/curso/temas/tema2/img4.png' alt='')
+            .col-lg-8.mb-4(data-aos="fade-left")
               p Según Salazar (2019), 
                 b.t-red este diagrama se utiliza para complementar a los diagramas de flujo y operaciones. 
                 | Este es el esquema visual en donde a través de un plano en dos dimensiones se validan las actividades mencionadas en el diagrama de flujo de proceso. Se muestra cómo se distribuye en el espacio físico de la planta todas las actividades y cómo se conectan a través del recorrido de un operario. 
@@ -259,18 +260,17 @@
           .titulo-sexto.color-acento-contenido(data-aos="fade-down")
             p.mb-0 #[b Figura 2.] Proceso de elaboración de un diagrama de recorrido
 
-          .col-md-9.mb-4(data-aos="fade-down")
-            img.d-none.d-md-block(src='@/assets/curso/temas/tema2/fig2.svg' alt='Proceso de elaboración de un diagrama de recorrido')
-            img.d-md-none.d-block(src='@/assets/curso/temas/tema2/fig2-mobile.svg' alt='Proceso de elaboración de un diagrama de recorrido')
+          .col-lg-9.mb-4(data-aos="fade-down")
+            img.d-none.d-md-block(src='@/assets/curso/temas/tema2/fig2.svg' alt='Presentación de los cinco pasos para la realización de un diagrama de recorrido.')
+            img.d-md-none.d-block(src='@/assets/curso/temas/tema2/fig2-mobile.svg' alt='Presentación de los cinco pasos para la realización de un diagrama de recorrido.')
 
-          .col-md-10
+          .col-lg-10
             h4.t-red(data-aos="fade") Aplicación de un diagrama de recorrido
-            p(data-aos="fade") Según Salazar (2019) la implementación realizada se hará sobre una prenda básica, en este caso se verá que los componentes son diagramados en su totalidad de acuerdo al esquema de especificaciones de confección relacionadas en la camiseta básica y el diagrama de procesos en la 
-              em Implementación de un diagrama de flujo. 
+            p(data-aos="fade") Según Salazar (2019) la implementación realizada se hará sobre una prenda básica, en este caso se verá que los componentes son diagramados en su totalidad de acuerdo al esquema de especificaciones de confección relacionadas en la camiseta básica y el diagrama de procesos en la Implementación de un diagrama de flujo. 
             .tarjeta.bg-color-secundario.p-3(data-aos="fade-down")
               .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.px-md-4
-                  img.px-md-4(src="@/assets/curso/temas/tema1/pdf.svg")
+                .col-3.col-sm-2.col-lg-2.px-lg-4.px-md-3
+                  img.px-lg-4(src="@/assets/curso/temas/tema1/pdf.svg")
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
@@ -289,12 +289,12 @@
 
     p.mb-4(data-aos="fade") Después de haber analizado el proceso general, tal vez se comiencen a dilucidar algunos problemas del proceso productivo, así como también algunas soluciones; sin embargo, quedan por analizar las operaciones de manera individual. La técnica para estudio de micromovimientos deja claro hasta el más mínimo detalle de cada operación, de manera que también se puedan efectuar mejoras pequeñas.
 
-    .row.mb-3
-      .col-md-8.mb-4.mb-md-0(data-aos="fade-right")
+    .row.justify-content-center.mb-3
+      .col-lg-8.mb-4.mb-md-0(data-aos="fade-right")
         .bg-6.mb-4.p-4.p-md-3
           .row 
-            .col-md-2.col-5.mb-4.mb-md-0
-              img.px-md-3(src='@/assets/curso/temas/tema3/alert.svg' alt='AvatarTop')
+            .col-md-2.col-4.mb-4.mb-md-0
+              img.px-lg-3(src='@/assets/curso/temas/tema3/alert.svg' alt='AvatarTop')
             .col-md-10
               p.mb-0 Los micro movimientos (
                 em therbligs
@@ -302,15 +302,15 @@
         p Los esposos Frank y Lillian Gilbreth establecieron una división de 17 movimientos fundamentales. Estos son los que se conocen actualmente como 
           em therbligs
           | , en la tabla 2 se relacionan sus nombres y siglas.
-      .col-md-4.mb-4.mb-md-0(data-aos="fade-left")
-        img(src='@/assets/curso/temas/tema2/img5.png' alt='Imagen decorativa')
+      .col-lg-4.col-md-8.mb-4.mb-md-0(data-aos="fade-left")
+        img(src='@/assets/curso/temas/tema2/img5.png' alt='')
 
 
     .row.fondo4-tema2.align-items-center.mb-4
-      .col-lg-12.col-12.px-lg-5.px-4
+      .col-lg-12.col-12.px-lg-5.py-lg-0.p-4
         .row.justify-content-center.align-items-center
           
-          .col-md-10(data-aos="fade-down")
+          .col-lg-10(data-aos="fade-down")
             .titulo-sexto.color-acento-contenido
               p.mb-0 #[b Tabla 2.] Clasificación de #[em Therbligs]
             .tabla-a.color-acento-contenido.mb-4
@@ -368,20 +368,20 @@
 
             p.mb-4(data-aos="fade") El estudio de micro movimientos desde un principio concibió estándares de tiempo predeterminados para todas las actividades en particular para analizar una operación o un conjunto de ellas, así solo con preparar el diseño de una estación de trabajo y un patrón de movimientos, se podría determinar cuánto tiempo se tardará. En las propuestas de mejora se busca adecuar la operación o el puesto de trabajo. Se utiliza la técnica de los diagramas bimanuales para validar que movimientos podrían llevar a ser improductivos.
 
-          .col-md-10
+          .col-lg-10
             h4.t-red Aplicación de un diagrama bimanual
             p.mb-4(data-aos="fade") Según Salazar (2019), el objetivo del diagrama bimanual es validar qué movimientos ineficaces se están ejecutando operación por operación; sin embargo, son objeto de estudio las operaciones que pueden ser críticas dentro del proceso de confección. Su elaboración generalmente se realiza, luego de hacer un registro fílmico, ya que probablemente esta operación tenga ciclos de trabajo muy cortos. 
             .tarjeta.bg-color-secundario.p-3.mb-4(data-aos="fade-down")
               .row.justify-content-around.align-items-center
-                .col-3.col-sm-2.col-lg-2.px-md-4
-                  img.px-md-4(src="@/assets/curso/temas/tema1/pdf.svg")
+                .col-3.col-sm-2.col-lg-2.px-lg-4.px-md-3
+                  img.px-lg-4(src="@/assets/curso/temas/tema5/xls.svg")
                 .col.ps-md-0
                   .row.justify-content-between.align-items-center
                     .col.mb-3.mb-sm-0
                       h3.mb-1 Diagrama bimanual
                       p.mb-0 Se sugiere revisar el archivo para comprender la aplicación directa de este diagrama.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Diagrama_bimanual.pdf')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Diagrama_Bimanual.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
@@ -414,7 +414,7 @@
               .row.justify-content-center.mb-3
                 .col-4
                   img(src='@/assets/curso/temas/tema2/5.png' alt='5')
-              h5 Son preferibles los movimientos continuos y curvos a los movimientos rectos en los que hay cambios de dirección bruscos y/o repentinos
+              h5 Son preferibles los movimientos continuos y curvos a los movimientos rectos en los que hay cambios de dirección bruscos y/o repentinos.
             .tarjeta.bg-8.text-center.p-4
               .row.justify-content-center.mb-3
                 .col-4
@@ -436,9 +436,8 @@
 
           figure(data-aos="fade-down")
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-
-
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/XBfqe7E1gOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          figcaption Video. Ejemplo de aplicación de un estudio de trabajo
 
 
 
