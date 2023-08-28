@@ -436,7 +436,7 @@
             p #[b 1. Distancia.] Esta se mide en términos de grados girados. Los grados girados se miden en relación con el eje largo del antebrazo, con el plano de rotación quedando aproximadamente perpendicular a este eje.
             p #[b 2. Resistencia.] Debido a lo poco frecuente del mover girar con resistencia mayor de 1 kg, se ha clasificado en cuatro categorías, que rinden resultados satisfactorios para determinar el tiempo para el girar. Estas son:
             p Sin resistencia: mano vacía; Pequeña: hasta 1 kg; Mediana: de 1.1 a 5 kg; Grande: de 5.1 a 16 kg.
-          .col-md-5.col-md-8
+          .col-lg-5.col-md-8
             img(src='@/assets/curso/temas/tema5/slide-img3.png', alt='')
         .row.justify-content-evenly
           .col-lg-6.mb-4.mb-md-0
@@ -516,7 +516,7 @@
       .col-lg-12.col-12.px-lg-5.py-lg-0.p-4
         .row.justify-content-center.align-items-center
 
-          .col-lg-6.mb-4(data-aos="fade-right")
+          .col-xl-6.col-lg-12.mb-4(data-aos="fade-right")
             .bg-6.mb-4.p-4.p-md-3
               .row.align-items-center
                 .col-md-2.col-5.mb-4.mb-md-0
@@ -567,7 +567,7 @@
                   tr
                     td CRANK (Acción de manivela)
                     td C
-          .col-lg-6.d-none.d-lg-block.mb-4(data-aos="fade-left")
+          .col-lg-6.d-none.d-xl-block.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema5/img10.png' alt='')
 
           p.mb-4(data-aos="fade") El último nivel de la Medición de Tiempos y Métodos se conoce por MTM-3. Este nivel no fue elaborado para reemplazar a MTM o a MTM-2, sino como un complemento de estos sistemas. El MTM-3 está destinado al caso de situaciones de trabajo donde se tiene como objeto ahorrar tiempo a expensas de algo de exactitud. Este tipo de tablas se puede utilizar eficazmente para estudiar y mejorar métodos, evaluar métodos en alternativa, desarrollar datos y fórmulas estándares y establecer estándares de actuación; no debe emplearse en relación con operaciones que requieren tiempos de enfoque ocular o de desplazamiento de los ojos, puesto que los datos no consideran estos movimientos. La exactitud de estas tablas MTM-3 está dentro de + - 5 %, con un 95 % de nivel de confianza cuando se compara con el análisis MTM-I. (García, 2005).

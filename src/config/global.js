@@ -319,7 +319,7 @@ export default {
           nombre: 'Rafael Neftalí Lizcano Reyes',
           cargo: 'Responsable de línea de producción',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -329,53 +329,53 @@ export default {
         {
           nombre: 'Jenny Patricia Torres Sarmiento',
           cargo: 'Experto Temático',
-          centro: 'Regional Antioquia - Centro Diseño, Confección y Moda',
+          centro: 'Centro Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Carlos Parra ',
           cargo: 'Experto Temático',
           centro:
-            'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+            'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
           cargo: 'Experto Temático',
-          centro: 'Regional Antioquia - Centro Diseño, Confección y Moda',
+          centro: 'Centro Diseño, Confección y Moda - Regional Antioquia',
         },
         {
           nombre: 'Adriana López López',
           cargo: 'Diseñadora Instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
           cargo: 'Correctora de estilo',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Adriana López',
           cargo: 'Diseñadora Instruccional',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Revisora Metodológica y Pedagógica',
           centro:
-            'Regional Distrito Capital – Centro para la Industria de la Comunicación Gráfica',
+            'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
         },
         {
           nombre: 'Darío González',
           cargo: 'Corrección de estilo',
-          centro: 'Regional Tolima – Centro Agropecuario La Granja',
+          centro: 'Centro Agropecuario La Granja - Regional Tolima',
         },
         {
           nombre: 'Miroslava González Hernández',
           cargo: 'Diseñadora Instruccional',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -386,37 +386,37 @@ export default {
           nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Animador y Productor Multimedia',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Storyboard e ilustración',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Camilo Andrés Bolaño Rey',
           cargo: 'Locución',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Yerson Fabian Zarate Saavedra',
           cargo: 'Diseñador de Contenidos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Andrea Paola Botello De la Rosa',
           cargo: 'Desarrollador Fullstack',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Emilsen Alfonso Bautista',
           cargo: 'Actividad didáctica',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -427,19 +427,19 @@ export default {
           nombre: 'Daniel Ricardo Mutis Gómez',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Zuleidy María Ruíz Torres',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
         {
           nombre: 'Luis Gabriel Urueta Álvarez',
           cargo: 'Validador de Recursos Educativos Digitales',
           centro:
-            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
