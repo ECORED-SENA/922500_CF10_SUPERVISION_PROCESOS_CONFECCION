@@ -101,13 +101,13 @@
         .bg-2.h-100
           img(src='@/assets/curso/temas/tema4/img4.png' alt='')
           .p-4
-            h4 Cronometro análogo
+            h4 Cronómetro análogo
             p.mb-0 Basada en recolección, ordenación y presentación de datos a través de gráficos y tablas, su objetivo es resumir o describir la información sin factores adicionales más que los datos.
       .col-md-6.ps-md-0.mb-4(data-aos="fade-left")
         .bg-3.h-100
           img(src='@/assets/curso/temas/tema4/img5.png' alt='')
           .p-4
-            h4 Cronometro digital
+            h4 Cronómetro digital
             p.mb-0 La mayor parte de las técnicas de estudios de tiempos usa este cronómetro, ya que es muy preciso, y la mayoría de ellos cuenta con memoria. Su uso se da mediante la puesta en marcha y la parada del mecanismo de control, que generalmente son los botones que se acciona. 
 
 

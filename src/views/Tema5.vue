@@ -108,7 +108,7 @@
           .col-lg-6.mb-4.mb-md-0(data-aos="fade-left")
             p Es por ello, que antes de empezar la medición, es necesario saber cuándo inicia y termina la medición, para, así mismo, activar y parar el cronómetro. Por ende, se recomienda establecer un desde y hasta en la descripción, que permitan identificar claramente el ciclo de la operación.
             .cajon.color-secundario.p-4.py-md-5
-              p.mb-0 El registro de tiempo se hará basado en 10 lecturas, inicialmente, por cada operación o elemento, porque al validar la información se podrá aumentar la cantidad de observaciones debido a la consistencia de los datos. Por ejemplo, si los datos varían demasiado de toma a toma, la cantidad de observaciones aumentará. En este registro, es preciso que se ingresen los valores de tiempos, correspondientes a las mediciones, en sistema centesimal, aclarando en el formato si el tiempo es continuo o con regreso .
+              p.mb-0 El registro de tiempo se hará basado en 10 lecturas, inicialmente, por cada operación o elemento, porque al validar la información se podrá aumentar la cantidad de observaciones debido a la consistencia de los datos. Por ejemplo, si los datos varían demasiado de toma a toma, la cantidad de observaciones aumentará. En este registro, es preciso que se ingresen los valores de tiempos, correspondientes a las mediciones, en sistema centesimal, aclarando en el formato si el tiempo es continuo o con regreso.
 
 
     p.mb-4(data-aos="fade") Se deben tener en cuenta los siguientes métodos:
@@ -161,10 +161,10 @@
       .row.justify-content-center(titulo="Suplementos")
         .col-lg-5.mb-4.mb-lg-0
           p Los suplementos de tiempo permiten una holgura que beneficia la labor del trabajador, generalmente, en las empresas de confección que trabajan en condiciones normales, se otorga un suplemento del 12% al 14%, en los tiempos predeterminados, que también son usados para calcular el estándar.
-          p #[b Los suplementos por descanso:] según la OIT, el tiempo de suplemento por descanso es el que se añade al tiempo básico para dar al trabajador la posibilidad de reponerse de los efectos fisiológicos y psicológicos causados por la ejecución de determinado trabajo en determinadas condiciones y para que pueda atender sus necesidades personales. Su cuantía depende de la naturaleza del trabajo..
+          p #[b Los suplementos por descanso:] según la OIT, el tiempo de suplemento por descanso es el que se añade al tiempo básico para dar al trabajador la posibilidad de reponerse de los efectos fisiológicos y psicológicos causados por la ejecución de determinado trabajo en determinadas condiciones y para que pueda atender sus necesidades personales. Su cuantía depende de la naturaleza del trabajo.
         .col-lg-6.mb-4.mb-lg-0
           .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
-            p.mb-0 #[b Figura 3.] Proporción de los suplementos de descanso y contingencias
+            p.mb-0 #[b Figura 4.] Proporción de los suplementos de descanso y contingencias
           img(src='@/assets/curso/temas/tema5/acord-img4.svg', alt='Gráfica en la que se expone la proporción de los suplementos de descanso y contingencias durante el tiempo estándar.')
         .col-lg-11
           p #[b Los suplementos por contingencias:] según la OIT, el tiempo de suplemento por contingencias es el margen que se incluye en el tiempo estándar para prever legítimos añadidos de trabajo o demora que no compensan medir exactamente, porque aparecen sin frecuencia ni regularidad. 
@@ -222,7 +222,7 @@
               b.t-red cronómetros y tablas de MTM.
             .cajon.color-secundario.p-4.mb-4
               p El objetivo de la estandarización de cualquier prenda es establecer, mediante esta técnica, el tiempo estándar de las tareas que se dan dentro de los procesos. Es necesario contar con el apoyo de los trabajadores calificados para dicha tarea, ya que ellos han adquirido la destreza y conocimientos, respetando las normas de seguridad y calidad.
-              p.mb-0 Esto genera que los tiempos estándar sean entendidos como el punto de competitividad con otras empresas del sector; por lo tanto, estos lineamientos establecidos y generalizados dentro de la confección ayudan a construir empresas productivas . 
+              p.mb-0 Esto genera que los tiempos estándar sean entendidos como el punto de competitividad con otras empresas del sector; por lo tanto, estos lineamientos establecidos y generalizados dentro de la confección ayudan a construir empresas productivas. 
             p Existe, entonces, una técnica de gran ayuda para la confección, 
               b.t-red la de MTM
               |, que ofrece una gran oportunidad para la exactitud de la estandarización, refuerza la importancia para mejorar la productividad y proporciona un enfoque al área de manufactura, donde se establecen tiempos de fabricación consistentes, los cuales minimizan el tiempo requerido para la ejecución de trabajos y, así, se reducen los costos de las prendas de vestir a confeccionar a través de tiempos predeterminados.   
@@ -233,7 +233,7 @@
             .col-lg-1.col-md-2.col-3.mb-4.mb-md-0(data-aos="fade")
               img(src='@/assets/curso/temas/tema5/ico3.svg' alt='')
             .col-lg-11.col-md-10.mb-4.mb-md-0(data-aos="fade")
-              p.mb-0 El objetivo de los tiempos predeterminados es evitar movimientos innecesarios, que solo hacen que el tiempo estándar sea mayor, y ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos. Este proceso de ensamble, con las tablas de MTM, ayuda a crear productos con un criterio de calidad y entrega oportuna a los clientes; por ello, en los siguientes apartados, se entregarán lineamientos que darán soporte a la estandarización correcta de las prendas de vestir .
+              p.mb-0 El objetivo de los tiempos predeterminados es evitar movimientos innecesarios, que solo hacen que el tiempo estándar sea mayor, y ayudan a entender la construcción de las prendas en un ambiente óptimo de fabricación, de recursos humanos y de materiales e insumos. Este proceso de ensamble, con las tablas de MTM, ayuda a crear productos con un criterio de calidad y entrega oportuna a los clientes; por ello, en los siguientes apartados, se entregarán lineamientos que darán soporte a la estandarización correcta de las prendas de vestir.
 
           p.mb-4(data-aos="fade") Los tiempos predeterminados, según García (2005), 
             b.t-red son la “colección de tiempos válidos asignados a movimientos y a grupos de movimientos básicos, que no pueden ser evaluados con exactitud con el procedimiento ordinario del estudio cronológico de tiempos. Son el resultado del estudio de un gran número de muestras de operaciones diversificadas, que son capaces de medir elementos muy cortos”. 
@@ -293,7 +293,7 @@
                   p.mb-0 Nota. Tomada de Association R. Standard and Research.
                 thead
                   tr.bg-gray3
-                    th(colspan="3") El tiempo de una operación es expresado en TMU (Unidades de tiempo del movimiento
+                    th(colspan="3") El tiempo de una operación es expresado en TMU (Unidades de tiempo del movimiento)
                   tr
                     th(colspan="3") 
                       p.mb-0 Un TMU es equivalente a:
@@ -401,7 +401,7 @@
             .col-lg-3.mb-4.mb-lg-0.mb-md-3(data-aos="fade-left")
               .h-100.bg-white.box-shadow.text-center.p-4 
                 h4.t-red Elementos primarios delsistema MTM para movimientos
-                p.mb-0 Sistema de clasificación de los movimientos básicos. Son una serie de símbolos para identiciar estos movimientos y sus valores de tiempos preseterminados.
+                p.mb-0 Sistema de clasificación de los movimientos básicos. Son una serie de símbolos para identificar estos movimientos y sus valores de tiempos preseterminados.
             .col-lg-3.mb-4.mb-lg-0.mb-md-3(data-aos="fade-left")
               .h-100.bg-white.box-shadow.text-center.p-4 
                 h4.t-red Niveles de control
@@ -524,7 +524,7 @@
                 .col-md-10
                   p.mb-0 Es importante tener presente que cada MTM tiene unas variaciones de movimientos y algunas otras representaciones; por ejemplo, en el MTM-2, se consideran 11 clases de acciones, que se denominan "categorías". Estas once categorías y sus símbolos se exponen en la Tabla 4.
             .titulo-sexto.color-acento-contenido
-              p.mb-0 #[b Tabla 4.] Simbología para elaboración de diagramas de flujo
+              p.mb-0 #[b Tabla 4.] Categorías MTM 2
             .tabla-a.tabla4.color-acento-contenido
               table
                 caption.bg-white
@@ -535,37 +535,37 @@
                     th.colum-20 Símbolo
                 tbody.bg-white.text-center
                   tr
-                    td GET (Obtener)
+                    td #[em GET] (Obtener)
                     td G
                   tr
-                    td PUT (poner)
+                    td #[em PUT] (poner)
                     td P
                   tr
-                    td GET WEIGHT (Tomar peso)
+                    td #[em GET WEIGHT] (Tomar peso)
                     td GW
                   tr
-                    td PUT WEIGHT (Poner peso)
+                    td #[em PUT WEIGHT] (Poner peso)
                     td PW
                   tr
-                    td REGRASP (Volver a asir)
+                    td #[em REGRASP] (Volver a asir)
                     td R
                   tr
-                    td APPL y PRESSURE (Aplicar presión)
+                    td APPL y #[em PRESSURE] (Aplicar presión)
                     td A
                   tr
-                    td EYE ACTION (Acción de ojo) 
+                    td #[em EYE ACTION] (Acción de ojo) 
                     td E
                   tr
-                    td FOOTACTION (Acción de pie)
+                    td #[em FOOTACTION] (Acción de pie)
                     td F
                   tr
-                    td STEP (Paso)
+                    td #[em STEP] (Paso)
                     td S
                   tr
-                    td BEND & ARISE (Doblar y subir)
+                    td #[em BEND & ARISE] (Doblar y subir)
                     td B
                   tr
-                    td CRANK (Acción de manivela)
+                    td #[em CRANK] (Acción de manivela)
                     td C
           .col-lg-6.d-none.d-xl-block.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema5/img10.png' alt='')

@@ -217,13 +217,15 @@
             .tarjeta.bg-6.p-4(titulo="Suplementos")
               h4 Suplementos
               p Los suplementos o tolerancias son pequeñas cantidades de tiempo que se añaden al tiempo normal de trabajo de la tarea, para calcular el verdadero tiempo de dichas tareas. Estos son porcentajes que se calculan teniendo en cuenta las necesidades del trabajador, las condiciones del trabajo realizado y el lugar donde se desempeña la tarea. Existen varios sistemas aprobados para designar estas tolerancias y poder realizar el cálculo del estándar de tiempo.  Si se utiliza la técnica de tiempo predeterminado, se pueden contemplar algunos suplementos por dificultad de la tarea o la máquina a utilizar. 
-            .tarjeta.bg-6.p-4(titulo="Tiempo estandar")
-              h4 Tiempo estandar
+            .tarjeta.bg-6.p-4(titulo="Tiempo estándar")
+              h4 Tiempo estándar
               p Luego de tener el registro de cada una de las actividades, se procede a calcular el tiempo estándar, en minutos por prenda y cantidad de prendas por hora. Generalmente, este resultado se determina en minutos. En este tiempo, se contemplan los tiempos observados, la calificación o valoración del desempeño del operario y los suplementos. Luego de definir estos tiempos estándar, se procederá a la validación con el resto de los operarios. 
               p En ocasiones, durante la validación, se pueden evidenciar variaciones, debido a que puede cambiar la tarea por mejorar, por uso de otras herramientas, por el cambio del material empleado, entre otros factores, entonces es necesario volver a revisar el estándar de tiempo asignado a la operación o proceso y cambiarlo, si es necesario. 
 
           p.mb-5(data-aos="fade") En confección, es muy común que los estándares de tiempo que se calculan a través de predeterminados sean muy exactos, ya que no hay subjetividad que permita aumentar los tiempos o disminuirlos. Sin embargo, no se descarta la medición a través del cronómetro para corroborar si la operación fue bien calculada.  Adicional a esto, en la etapa de preparación, se hace necesario que la persona a medir cumpla con las siguientes características para facilitar el estudio:
 
+          .titulo-sexto.color-acento-contenido.mb-4
+            p.mb-0 #[b Figura 3.] Características del responsable de medición
           img.d-none.d-md-block.mb-5(src='@/assets/curso/temas/tema3/infog.svg' alt='características para facilitar el estudio')
           img.d-md-none.d-block.mb-5(src='@/assets/curso/temas/tema3/infog-mobile.svg' alt='características para facilitar el estudio')
 

@@ -49,7 +49,7 @@
                     td 
                       img.mx-auto(src='@/assets/curso/temas/tema2/tabl3.png' alt='Almacenamiento' style="width: 85px;")
                     td.text-center Almacenamiento
-                    td Indica el deposito de un objeto o partes de un objeto, que se desea proteger de alguna modificación o algún movimiento.
+                    td Indica el depósito de un objeto o partes de un objeto, que se desea proteger de alguna modificación o algún movimiento.
                   tr
                     td 
                       img.mx-auto(src='@/assets/curso/temas/tema2/tabl4.png' alt='Transporte' style="width: 85px;")
@@ -255,7 +255,7 @@
               p Según Salazar (2019), 
                 b.t-red este diagrama se utiliza para complementar a los diagramas de flujo y operaciones. 
                 | Este es el esquema visual en donde a través de un plano en dos dimensiones se validan las actividades mencionadas en el diagrama de flujo de proceso. Se muestra cómo se distribuye en el espacio físico de la planta todas las actividades y cómo se conectan a través del recorrido de un operario. 
-              p Por otro lado, este se construye con base en un layout a escala taller, en donde se indican las máquinas, las mesas auxiliares, los pasillos y demás posiciones fijas, sobre este plano se dibuja el flujo del proceso utilizando los mismos símbolos empleados en el diagrama de flujo o recorrido, con el objetivo de validar si existen contraflujos en el proceso productivo, recorridos innecesarios, disposición inadecuada de las instalaciones o maquinaria. Para su elaboración, es necesario haber realizado y analizado los demás instrumentos para el registro de la información de métodos. Se mencionan los pasos más relevantes a tener en cuenta para la diagramación del flujo dentro del plano. 
+              p Por otro lado, este se construye con base en un #[em layout] a escala taller, en donde se indican las máquinas, las mesas auxiliares, los pasillos y demás posiciones fijas, sobre este plano se dibuja el flujo del proceso utilizando los mismos símbolos empleados en el diagrama de flujo o recorrido, con el objetivo de validar si existen contraflujos en el proceso productivo, recorridos innecesarios, disposición inadecuada de las instalaciones o maquinaria. Para su elaboración, es necesario haber realizado y analizado los demás instrumentos para el registro de la información de métodos. Se mencionan los pasos más relevantes a tener en cuenta para la diagramación del flujo dentro del plano. 
           
           .titulo-sexto.color-acento-contenido(data-aos="fade-down")
             p.mb-0 #[b Figura 2.] Proceso de elaboración de un diagrama de recorrido

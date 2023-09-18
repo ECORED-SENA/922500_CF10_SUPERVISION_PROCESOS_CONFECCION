@@ -122,7 +122,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF10_922500_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -154,21 +154,7 @@ export default {
     {
       tema: '2. Técnicas y diagramas de estudio de métodos',
       referencia:
-        'Aguilar, L. (2019). <em>Métodos de trabajo - pegar mangas en un buso T-shirt</em>  ',
-      tipo: 'Video',
-      link: 'https://youtu.be/jqca9UwfFSo',
-    },
-    {
-      tema: '2. Técnicas y diagramas de estudio de métodos',
-      referencia:
-        'Ingeniería Confección. (2008). <em>Confección en menos tiempo Dobladillar bota jean</em>  ',
-      tipo: 'Video',
-      link: 'https://youtu.be/L76fT5Q1rqQ',
-    },
-    {
-      tema: '2. Técnicas y diagramas de estudio de métodos',
-      referencia:
-        'Ingeniería Confección. (2016). <em>Ejemplo de confección en menos tiempo Dobladillar bota jean</em>  ',
+        'Ingeniería Confección. (2008). <em>Ejemplo de confección en menos tiempo Dobladillar bota jean</em> ',
       tipo: 'Video',
       link: 'https://youtu.be/L76fT5Q1rqQ',
     },
@@ -210,7 +196,7 @@ export default {
         'examen crítico y sistemático del modo actual de llevar a cabo un trabajo, con el propósito de idear y aplicar métodos más sencillos y eficaces, enfocados en reducir costos.',
     },
     {
-      termino: 'Layout',
+      termino: '<em>Layout</em>',
       significado:
         'hace referencia a la disposición que tomarán las máquinas y secciones dentro de una instalación física como una planta o taller. Es un esquema que resume y señala la distribución y forma de los elementos dentro de un sitio. ',
     },
@@ -247,7 +233,7 @@ export default {
     {
       termino: 'Productividad',
       significado:
-        'es el uso eficiente de los Recursos (Trabajo, Tierra, Materiales, Energía, Información, Tiempo) en la Producción de Bienes y Servicios.',
+        'es el uso eficiente de los recursos (trabajo, tierra, materiales, energía, información, tiempo) en la producción de bienes y servicios.',
     },
     {
       termino: 'SAM',
@@ -285,7 +271,10 @@ export default {
     },
     {
       referencia:
-        'Meyers, F. (2000). Estudios de tiempos y movimientos para la manufactura ágil. Pearson Educación. mtmingenieros (2022). Tablas MTM.',
+        'Meyers, F. (2000). Estudios de tiempos y movimientos para la manufactura ágil. Pearson Educación.',
+    },
+    {
+      referencia: 'mtmingenieros (2022). Tablas MTM.',
       link: 'http://mtmingenieros.com/recursos-mtm/descarga-de-recursos/',
     },
     {
