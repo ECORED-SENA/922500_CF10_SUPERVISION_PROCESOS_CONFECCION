@@ -44,7 +44,7 @@
             .col-lg-8.mb-4(data-aos="fade-left")
               .bloque-texto-c.bg-gray.p-4.px-md-5.h-100
                 i.fas.fa-quote-right.mb-3
-                h4.mb-2 Estudiar el método ayuda a diseñar la forma correcta de realizar un determinado trabajo u operación, y de esta forma estandarizarlo a través de la capacitación. Como consecuencia se obtendrá una reducción de tiempos y costos. Sin embargo, este no es solo el objetivo del estudio de métodos, muchas veces tiene que ver con una estrategia de calidad, ya que la estandarización de métodos permite reducir la posibilidad de errores o defectos del producto durante el proceso productivo. Salazar, 2019
+                h4.mb-2 Estudiar el método ayuda a diseñar la forma correcta de realizar un determinado trabajo u operación, y de esta forma estandarizarlo a través de la capacitación. Como consecuencia se obtendrá una reducción de tiempos y costos. Sin embargo, este no es solo el objetivo del estudio de métodos, muchas veces tiene que ver con una estrategia de calidad, ya que la estandarización de métodos permite reducir la posibilidad de errores o defectos del producto durante el proceso productivo. (Salazar, 2019)
 
 
     p.mb-4(data-aos="fade") El estudio de métodos se relaciona específicamente con los conceptos de productividad, eficiencia y eficacia. El siguiente recurso amplía esta terminología.  
