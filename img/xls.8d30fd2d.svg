@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.347" height="71.347" viewBox="0 0 71.347 71.347">
+  <g id="Grupo_1015016" data-name="Grupo 1015016" transform="translate(-319.673 -2410)">
+    <path id="Trazado_716195" data-name="Trazado 716195" d="M35.673,0A35.673,35.673,0,1,1,0,35.673,35.673,35.673,0,0,1,35.673,0Z" transform="translate(319.673 2410)" fill="#d3f3f3"/>
+    <g id="Layer_1-2" transform="translate(326.673 2422.339)">
+      <g id="XLS">
+        <g id="Base">
+          <path id="Trazado_736231" data-name="Trazado 736231" d="M0,195.176l5.186-5.186v5.186Z" transform="translate(0 -167.03)" fill="#135431"/>
+          <path id="Trazado_736232" data-name="Trazado 736232" d="M442.276,195.176l-5.186-5.186v5.186Z" transform="translate(-384.268 -167.03)" fill="#135431"/>
+          <path id="Trazado_736233" data-name="Trazado 736233" d="M76.255,0H43.065A3.043,3.043,0,0,0,40,3.021V54.986a3.043,3.043,0,0,0,3.065,3.021h42.21a3.043,3.043,0,0,0,3.065-3.021v-42.9Z" transform="translate(-35.166)" fill="#229456"/>
+          <path id="Trazado_736234" data-name="Trazado 736234" d="M340,0l12.085,12.085H340Z" transform="translate(-298.911)" fill="#fff"/>
+          <path id="Trazado_736235" data-name="Trazado 736235" d="M0,232.9H58.008v21.753H0Z" transform="translate(0 -204.754)" fill="#127a41"/>
+          <path id="Trazado_736236" data-name="Trazado 736236" d="M352.085,100v12.085L340,100Z" transform="translate(-298.911 -87.915)" fill="#1b9754"/>
+          <g id="Grupo_1014555" data-name="Grupo 1014555" transform="translate(9.668 11.685)">
+            <rect id="Rectángulo_347901" data-name="Rectángulo 347901" width="16.856" height="2.417" rx="1.208" fill="#fff"/>
+            <rect id="Rectángulo_347902" data-name="Rectángulo 347902" width="27.795" height="2.417" rx="1.208" transform="translate(0 4.606)" fill="#fff"/>
+            <rect id="Rectángulo_347903" data-name="Rectángulo 347903" width="27.795" height="2.417" rx="1.208" transform="translate(0 9.21)" fill="#fff"/>
+          </g>
+        </g>
+        <g id="XLS-2" transform="translate(12.962 32.401)">
+          <path id="Trazado_736237" data-name="Trazado 736237" d="M113,273.864l2.106-4.284h3.549l-3.6,6.391,3.7,6.5h-3.584L113,278.1l-2.168,4.364H107.26l3.691-6.5-3.594-6.391H110.9L113,273.864Z" transform="translate(-107.26 -269.402)" fill="#fff"/>
+          <path id="Trazado_736238" data-name="Trazado 736238" d="M213.847,280.087h5.408v2.39H210.74V269.59h3.107v10.5Z" transform="translate(-198.235 -269.411)" fill="#fff"/>
+          <path id="Trazado_736239" data-name="Trazado 736239" d="M295.706,277.75a1.277,1.277,0,0,0-.482-1.062,6.009,6.009,0,0,0-1.7-.788,16.349,16.349,0,0,1-1.983-.788q-2.505-1.231-2.505-3.381a3.035,3.035,0,0,1,.624-1.89,4.035,4.035,0,0,1,1.766-1.275A6.885,6.885,0,0,1,294,268.11a5.944,5.944,0,0,1,2.492.5,3.951,3.951,0,0,1,1.712,1.412,3.685,3.685,0,0,1,.61,2.093h-3.1a1.56,1.56,0,0,0-.482-1.222,1.881,1.881,0,0,0-1.305-.434,2.131,2.131,0,0,0-1.315.367,1.082,1.082,0,0,0,.048,1.832,6.677,6.677,0,0,0,1.867.831,11.473,11.473,0,0,1,2.195.925,3.691,3.691,0,0,1,2.089,3.32,3.146,3.146,0,0,1-1.275,2.655,5.672,5.672,0,0,1-3.5.964,6.933,6.933,0,0,1-2.836-.562,4.278,4.278,0,0,1-1.912-1.54,4.012,4.012,0,0,1-.642-2.253h3.116a1.977,1.977,0,0,0,.535,1.526,2.53,2.53,0,0,0,1.739.492,2,2,0,0,0,1.217-.332,1.1,1.1,0,0,0,.447-.934Z" transform="translate(-266.729 -268.11)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
