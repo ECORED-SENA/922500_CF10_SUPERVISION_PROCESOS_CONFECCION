@@ -17,7 +17,7 @@
               img(src='@/assets/curso/temas/tema3/img.png' alt='')
             .col-lg-8.mb-4(data-aos="fade-left")
               .row.align-items-center.bg-5.h-100.p-4
-                p Según Ospina (2020), el diseño del puesto de trabajo para el trabajador de confecciones, es objeto de estudio de ingenieros y ergonomistas, ya que la actividad se realiza de forma sedentaria y por largas jornadas; sin embargo el diseño de fábrica generalmente es estándar, el mismo mueble, disposición del cabezote, dimensiones de largo, ancho y alto, con posibilidades de cambio dependiendo las necesidades de esta máquina en la industria. Este espacio de trabajo se deberá caracterizar por tener prácticas permanentes de orden y limpieza ya que como objetivo principal es que este contribuya a la flexibilidad del flujo de la producción. Algunas de las recomendaciones para este puesto son:
+                p Según Ospina (2020), el diseño del puesto de trabajo para el trabajador de confecciones, es objeto de estudio de ingenieros y ergonomistas, ya que la actividad se realiza de forma sedentaria y por largas jornadas; sin embargo, el diseño de fábrica generalmente es estándar, el mismo mueble, disposición del cabezote, dimensiones de largo, ancho y alto, con posibilidades de cambio dependiendo las necesidades de esta máquina en la industria. Este espacio de trabajo se deberá caracterizar por tener prácticas permanentes de orden y limpieza ya que como objetivo principal es que este contribuya a la flexibilidad del flujo de la producción. Algunas de las recomendaciones para este puesto son:
 
           h4.t-red.text-center.mb-3 Puesto de trabajo
 

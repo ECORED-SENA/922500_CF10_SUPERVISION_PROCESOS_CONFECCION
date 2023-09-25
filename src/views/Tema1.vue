@@ -68,7 +68,7 @@
                 .col-lg-7.mb-4.mb-md-0
                   h4 Eficiencia
                   p La eficiencia se logra cuando se obtiene un resultado esperado con el mínimo de insumos. Es decir, se genera cantidad y calidad y se incrementa la productividad. En un ejemplo sencillo se puede indicar que se fue eficiente si se produjeron 200 sacos en menos tiempo y con la calidad esperada. (García, 2005).
-                  p Otra definición de eficiancia se refiere a que es la relación entre los resultados logrados y los recursos empleados. Se incrementa la eficiencia si se optimizan los recursos y se reducen los tiempos muertos por paros de máquinas, falta de materia prima, retrasos, entre otros.
+                  p Otra definición de eficiencia se refiere a que es la relación entre los resultados logrados y los recursos empleados. Se incrementa la eficiencia si se optimizan los recursos y se reducen los tiempos muertos por paros de máquinas, falta de materia prima, retrasos, entre otros.
                   img.mx-auto.w-320(src='@/assets/curso/temas/tema1/form1.svg', alt='Fórmula de medición: la eficiencia es igual a la capacidad usada sobre la capacidad disponible.')
                 .col-lg-5.col-md-8
                   img(src='@/assets/curso/temas/tema1/tab2.png', alt='')
@@ -112,8 +112,8 @@
           img(src='@/assets/curso/temas/tema1/linea1.png', alt='')
       .row.justify-content-center(numero="2" titulo="Registrar los aspectos detallados del trabajo")
         .col-lg-7.mb-4.mb-md-0
-          p Para optimizar un proceso debemos conocer al detalle los por menores de la tarea, es por ello que se hace necesario registrar lo que se observa directamente en el sitio de trabajo, aspectos como movimientos, actividades, maquinaria utilizada, quién lo realiza, con qué lo realiza. entre otros aspectos. que es importante registrar. 
-          p Esto se hace mediante técnicas e instrumentos de obtención de información clara y estandarizada que son los “gráficos” y “diagramas”. Generalmente los instrumentos utilizados se usan para el registro del diagnóstico inicial del proceso y también para validar en cambio en las mejoras propuestas, es por esto que dentro de los formatos se debe describir si es el estado actual o futuro del proceso. 
+          p Para optimizar un proceso debemos conocer al detalle los por menores de la tarea, es por ello que se hace necesario registrar lo que se observa directamente en el sitio de trabajo, aspectos como movimientos, actividades, maquinaria utilizada, quién lo realiza, con qué lo realiza, entre otros aspectos, que es importante registrar. 
+          p Esto se hace mediante técnicas e instrumentos de obtención de información clara y estandarizada que son los “gráficos” y “diagramas”. Generalmente los instrumentos utilizados se usan para el registro del diagnóstico inicial del proceso y también para validar cambios en las mejoras propuestas, es por esto que dentro de los formatos se debe describir si es el estado actual o futuro del proceso. 
         .col-lg-5.col-md-10
           img(src='@/assets/curso/temas/tema1/linea2.png', alt='')
       .row.justify-content-center(numero="3" titulo="Analizar el trabajo")

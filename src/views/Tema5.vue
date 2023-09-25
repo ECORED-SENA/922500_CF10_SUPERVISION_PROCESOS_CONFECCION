@@ -160,7 +160,7 @@
           img(src='@/assets/curso/temas/tema5/acord-img3.png', alt='')
       .row.justify-content-center(titulo="Suplementos")
         .col-lg-5.mb-4.mb-lg-0
-          p Los suplementos de tiempo permiten una holgura que beneficia la labor del trabajador, generalmente, en las empresas de confección que trabajan en condiciones normales, se otorga un suplemento del 12% al 14%, en los tiempos predeterminados, que también son usados para calcular el estándar.
+          p Los suplementos de tiempo permiten una holgura que beneficia la labor del trabajador, generalmente, en las empresas de confección que trabajan en condiciones normales, se otorga un suplemento del 12 % al 14 %, en los tiempos predeterminados, que también son usados para calcular el estándar.
           p #[b Los suplementos por descanso:] según la OIT, el tiempo de suplemento por descanso es el que se añade al tiempo básico para dar al trabajador la posibilidad de reponerse de los efectos fisiológicos y psicológicos causados por la ejecución de determinado trabajo en determinadas condiciones y para que pueda atender sus necesidades personales. Su cuantía depende de la naturaleza del trabajo.
         .col-lg-6.mb-4.mb-lg-0
           .titulo-sexto.color-acento-contenido.mb-3(data-aos="fade-down")
@@ -258,25 +258,14 @@
             h4.t-red Tablas MTM  
             p Las tablas de MTM 1-MTM 2-MTM 3 sirven para la adecuada estandarización de prendas de vestir y, en especial, la combinación de las tres tablas.
             p Se invita a revisar los siguientes anexos de mtmingenieros (s.f.), realizados por la empresa MTM Ingenieros, donde se puede evidenciar de forma detallada el procedimiento. Asimismo, existen otras tablas que permiten que las diferentes operaciones se puedan estandarizar y, como resultado, permiten ofrecer un producto terminado con criterios de calidad y exactitud en su confección.
+            p Se sugiere ver y descargar los documentos #[b Tabla MTM1 , Tabla MTM2 y Tabla MTM3] (o Tabla MTM-UAS).
             .row 
-              .col-md-4.px-md-0.mb-3.mb-lg-0
-                a.anexo.box-shadow(:href="obtenerLink('/downloads/Tabla_MTM1.pdf')" target="_blank")
+              .col-md-7.px-md-0.mb-3.mb-lg-0
+                a.anexo.box-shadow(:href="('http://mtmingenieros.com/recursos-mtm/descarga-de-recursos/')" target="_blank")
                   .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
+                    img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
-                    p.mb-0.t-sistema-texto #[b Anexo.] Tabla MTM1
-              .col-md-4.px-md-0.mb-3.mb-lg-0
-                a.anexo.box-shadow(:href="obtenerLink('/downloads/Tabla_MTM2.pdf')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p.mb-0.t-sistema-texto #[b Anexo.] Tabla MTM2
-              .col-md-4.px-md-0.mb-3.mb-lg-0
-                a.anexo.box-shadow(:href="obtenerLink('/downloads/Tabla_MTM3.pdf')" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-pdf.svg")
-                  .anexo__texto
-                    p.mb-0.t-sistema-texto #[b Anexo.] Tabla MTM3
+                    p.mb-0.t-sistema-texto #[b Enlace.] Tablas MTM
           .col-lg-6.col-md-8.mb-4(data-aos="fade-left")
             img(src='@/assets/curso/temas/tema5/img7.png' alt='')
 
@@ -400,7 +389,7 @@
                 p.mb-0 Cualquier movimiento del cuerpo humano o de los miembros del cuerpo utilizado en un sistema de análisis de movimiento es conocido como unidad básica de trabajo.
             .col-lg-3.mb-4.mb-lg-0.mb-md-3(data-aos="fade-left")
               .h-100.bg-white.box-shadow.text-center.p-4 
-                h4.t-red Elementos primarios delsistema MTM para movimientos
+                h4.t-red Elementos primarios del sistema MTM para movimientos
                 p.mb-0 Sistema de clasificación de los movimientos básicos. Son una serie de símbolos para identificar estos movimientos y sus valores de tiempos preseterminados.
             .col-lg-3.mb-4.mb-lg-0.mb-md-3(data-aos="fade-left")
               .h-100.bg-white.box-shadow.text-center.p-4 

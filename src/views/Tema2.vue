@@ -194,7 +194,7 @@
                       h3.mb-1 Diagrama de operaciones
                       p.mb-0 Se sugiere revisar el archivo para comprender la aplicación directa del diagrama.
                     .col-sm-auto
-                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Diagrama_Operaciones.xlsx')" target="_blank")
+                      a.boton.color-acento-botones(:href="obtenerLink('/downloads/Anexo_Diagrama_Operacion.xlsx')" target="_blank")
                         span Descargar
                         i.fas.fa-file-download
 
